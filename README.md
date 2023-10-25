@@ -34,7 +34,7 @@ Projet logiciel de collecte d'informations depuis des terminaux mobiles jusqu'à
 - Connecter son ordinateur et son téléphone à un même réseau Wi-Fi, différent de celui de l'école.
 - Télécharger le fichier : Mettre le lien.
 - L'import dans MIT App Inventor.
-- Dans le bloc "When Clock2.Timer", une adresse est indiqué dans deux blocs "join". Il faut mettre son adresse ip, trouvable en lançant la commande "ipconfig" dans un cmd. [https://github.com/EnzoDaval/ConceptLog/blob/main/screen/screen.png]
+- Dans le bloc "When Clock2.Timer", une adresse est indiqué dans deux blocs "join". Il faut mettre son adresse ip, trouvable en lançant la commande "ipconfig" dans un cmd. ![MIT App Inventor](https://raw.githubusercontent.com/EnzoDaval/ConceptLog/main/screen/screen.png)
 
 
 ## Node Red
@@ -43,5 +43,5 @@ Projet logiciel de collecte d'informations depuis des terminaux mobiles jusqu'à
 - Télécharger le fichier : Mettre le lien.
 - Lancer Node-Red en lançant la commande "node-red" en ligne de commande puis y accéder via l'adresse http://localhost:1880/
 - Import le fichier dans Node-Red.
-- Sur les noeuds influxDB des différents flux, choisir votre serveur en mettant le token InfluxDB dans le champs "Token". [https://github.com/EnzoDaval/ConceptLog/blob/main/screen/token.png]
+- Sur les noeuds influxDB des différents flux, choisir votre serveur en mettant le token InfluxDB dans le champs "Token". ![NodeRed](https://raw.githubusercontent.com/EnzoDaval/ConceptLog/main/screen/token.png)
 - Déployer le projet.
