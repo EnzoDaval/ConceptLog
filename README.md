@@ -1,4 +1,4 @@
-#Conception Logicielle, smart phone au wearable computer
+# Conception Logicielle, smart phone au wearable computer
 
 ## Rappel du projet
 
