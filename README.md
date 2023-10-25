@@ -14,7 +14,7 @@ Projet logiciel de collecte d'informations depuis des terminaux mobiles jusqu'à
 
 
 ## Architecture du projet
-[ https://github.com/EnzoDaval/ConceptLog/blob/main/screen/Fonctionnement_Projet.png ]
+[Architecture du projet](https://github.com/EnzoDaval/ConceptLog/blob/main/screen/Fonctionnement_Projet.png)
 
 
 ## InfluxDB
