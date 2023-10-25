@@ -21,11 +21,13 @@ Projet logiciel de collecte d'informations depuis des terminaux mobiles jusqu'à
 
 - Installer InfluxDB : https://docs.influxdata.com/influxdb/v2/install/
 - Noter le token de votre Bucket.
+- Y accéder via l'adresse http://localhost:8086/
 
 
 ## Grafana
 
 - Installer Grafana : https://grafana.com/docs/grafana/latest/setup-grafana/installation/
+- - Y accéder via l'adresse http://localhost:3000/
 
 
 ## MIT App Inventor
@@ -45,3 +47,14 @@ Projet logiciel de collecte d'informations depuis des terminaux mobiles jusqu'à
 - Import le fichier dans Node-Red.
 - Sur les noeuds influxDB des différents flux, choisir votre serveur en mettant le token InfluxDB dans le champs "Token". ![NodeRed](https://raw.githubusercontent.com/EnzoDaval/ConceptLog/main/screen/token.png)
 - Déployer le projet.
+
+
+## Visualisation des graphiques
+
+Les graphiques Grafana sont visualisables sur :
+- Sur Grafana.
+- Sur l'Interface Utilisateur Node-Red via http://localhost:1880/ui en cliquant sur le menu Burger et en cliquant sur Grafana.
+
+Les graphiques Node-Red sont visualisables sur :
+- L'application App Inventor MIT.
+- Sur l'Interface Utilisateur Node-Red via http://localhost:1880/ui
