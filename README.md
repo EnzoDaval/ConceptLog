@@ -1,4 +1,4 @@
-![image](https://github.com/EnzoDaval/ConceptLog/assets/90778683/5c66ea86-d434-4660-850a-ff95029d42ee)# Conception Logicielle, smart phone au wearable computer
+#Conception Logicielle, smart phone au wearable computer
 
 ## Rappel du projet
 
