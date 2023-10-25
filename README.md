@@ -58,3 +58,7 @@ Les graphiques Grafana sont visualisables sur :
 Les graphiques Node-Red sont visualisables sur :
 - L'application App Inventor MIT.
 - Sur l'Interface Utilisateur Node-Red via http://localhost:1880/ui
+
+## Economie d'énergie 
+
+Optimiser la consommation énergétique implique de minimiser l'utilisation de la bande passante, en évitant une transmission continue des données. Pour cela, on mets en place une stratégie de stockage temporaire sur le téléphone, créant ainsi une petite base de données locale (un cache). De plus, l'intervalle de la clock 2, qui détermine la fréquence à laquelle les données sont transmises, est désactivé au démarrage de l'application, afin de ne pas envoyer de données à ce moment-là.
